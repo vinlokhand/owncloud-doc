@@ -1,1 +1,8 @@
-theme: jekyll-theme-cayman
+remote_theme: pmarsceill/just-the-docs
+title: Welcome!
+description: ownCloud doc Pages
+search_enabled: true
+# Aux links for the upper right navigation
+aux_links:
+    "Hello World on GitHub":
+      - "//github.com/vinlokhand/owncloud-doc"
