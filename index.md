@@ -1,8 +1,17 @@
-# Quick-Start Guide for Installing and Configuring ownCloud
+# Installing and Configuring ownCloud
+
+## Table of Contents
+
+{: .no_toc .text-delta }
+
+TOC {: toc}
+
+---
+
 
 ## Introduction
 
-ownCloud is an open source software for hosting your own cloud with the capabilities of files sharing and secure and compliant file synchronization with the server, from your Desktop or Mobile devices. 
+ownCloud is an open source software for hosting your own cloud with the capabilities of files sharing ensuring secure and compliant file synchronization from your Desktop or Mobile devices. 
 
 This quick-start guides you through the installation and configuration of the ownCloud Server on your local machine. It also provides information about user management, server access, and desktop and mobile syncronization.  
 
@@ -74,7 +83,7 @@ Create a new project directory
    server_redis_1      /bin/s6-svscan /etc/s6        Up                6379/tcp
    ```
 
-6. Open [http://localhost:8080](http://localhost:8080/) in your Firefox browser. The standard ownCloud login screen is displayed. Use **admin ** and **admin ** for username and password.
+6. Open [http://localhost:8080](http://localhost:8080/) in your Firefox browser. The standard ownCloud login screen is displayed. Use **admin** and **admin** for username and password.
    
    ![owncloud-ui-login](owncloud-ui-login.png) 
 
@@ -100,7 +109,7 @@ Follow the steps to forward the port:
 
 4. Enter the external and internal port numbers as 8080.
 
-5. In the To IP address field, enter the local IP of your server that you retrieved in Step 2 and **Save ** the settings
+5. In the To IP address field, enter the local IP of your server that you retrieved in Step 2 and **Save** the settings
 
 6. Find your public IP address using services such as [https://www.whatismyip.com](https://www.whatismyip.com)
 
@@ -108,9 +117,9 @@ Follow the steps to forward the port:
 
 ## Adding User Accounts
 
-The **Users **Page on the ownCloud WebUI provides options to create user accounts and additionally assign each of the users to groups.
+The **Users** Page on the ownCloud WebUI provides options to create user accounts and additionally assign each of the users to groups.
 
-1. Login to the ownCloud WebUI and navigate to the **Users **Page by selecting the top right button on the screen.
+1. Login to the ownCloud WebUI and navigate to the **Users** Page by selecting the top right button on the screen.
 
 2. Create **Users** group by specifying the username and password.
 
@@ -134,7 +143,7 @@ Launch the installation, and follow the onscreen instructions on the installatio
 
 To install the desktop client on Linux, follow the instructions on the [download page](https://software.opensuse.org/download/package?project=isv:ownCloud:desktop&package=owncloud-client).
 
-### Connecting to ownCloud Server from a Mobile Device
+## Connecting to ownCloud Server from a Mobile Device
 
 You can access, syncronize and upload your data on the go using the ownCloud Mobile apps available on both the Apple App Store and the Google Play Store.
 
