@@ -1,8 +1,8 @@
 remote_theme: pmarsceill/just-the-docs
 title: QuickStart
 description: ownCloud doc Pages
-search_enabled: true
+search_enabled: false
 # Aux links for the upper right navigation
 aux_links:
-    "ownCloud Doc on GitHub":
+    "Take Me to the Docs on GitHub":
       - "//github.com/vinlokhand/owncloud-doc"
