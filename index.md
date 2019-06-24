@@ -12,9 +12,9 @@
 
 ownCloud is an open source software for hosting your own cloud with the capabilities of file-sharing ensuring a secure and compliant synchronization with your Desktop or Mobile devices. 
 
-This quick-start guides you through the installation and configuration of the ownCloud Server on your local machine. It also provides information about user management, server access, and desktop and mobile syncronization.  
+This quick-start guides you through the installation and configuration of the ownCloud Server on your local machine. It also provides information about user management, server access, and desktop and mobile synchronization.  
 
-## Prerequistes
+## Prerequisites
 
 Before progressing with the Installation, ensure you have the following:
 
@@ -24,7 +24,7 @@ Before progressing with the Installation, ensure you have the following:
 
 - Firefox Browser
 
-The prerequistes here lists only the minimum requirements for the ownCloud to Install and run sucessfully on a local machine using the steps provided in the following sections. 
+The prerequisites here lists only the minimum requirements for the ownCloud to Install and run successfully on a local machine using the steps provided in the following sections. 
 
 For detailed Deployment considerations, Deployment recommendations, and requirements, See [System Requirement](https://doc.owncloud.org/server/10.1/admin_manual/installation/system_requirements.html).
 
@@ -128,7 +128,7 @@ For more details about the Users Page, see [User Management](https://doc.ownclou
 
 ## Connecting to ownCloud Server from Desktop
 
-You can use the WebUI as shown before to access the server and save your local files on your cloud. However, OwnCloud provides Desktop Sync Client as an option for keeping your data syncronized with the server at all times. For other benefits and features of the Desktop client, see the [ownCloud Client Manual](https://doc.owncloud.org/desktop/2.1/introduction.html)
+You can use the WebUI as shown before to access the server and save your local files on your cloud. However, OwnCloud provides Desktop Sync Client as an option for keeping your data synchronized with the server at all times. For other benefits and features of the Desktop client, see the [ownCloud Client Manual](https://doc.owncloud.org/desktop/2.1/introduction.html)
 
 The Desktop Client is supported on Linux, Mac OS X, and Microsoft Windows. 
 
@@ -144,7 +144,7 @@ To install the desktop client on Linux, follow the instructions on the [download
 
 ## Connecting to ownCloud Server from a Mobile Device
 
-You can access, syncronize and upload your data on the go using the ownCloud Mobile apps available on both the Apple App Store and the Google Play Store.
+You can access, synchronize and upload your data on the go using the ownCloud Mobile apps available on both the Apple App Store and the Google Play Store.
 
 See [Using the ownCloud iOS App](https://doc.owncloud.org/ios/) for information about managing data using the iOS App.
 
