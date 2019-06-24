@@ -1,8 +1,11 @@
 # Installing and Configuring ownCloud
+{: .no_toc }
 
 ## Table of Contents
+{: .no_toc .text-delta }
 
-1. TOC {:toc}
+1. TOC 
+{:toc}
 
 
 ## Introduction
