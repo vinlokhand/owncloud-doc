@@ -10,7 +10,7 @@
 
 ## Introduction
 
-ownCloud is an open source software for hosting your own cloud with the capabilities of files sharing ensuring secure and compliant file synchronization from your Desktop or Mobile devices. 
+ownCloud is an open source software for hosting your own cloud with the capabilities of file-sharing ensuring a secure and compliant synchronization with your Desktop or Mobile devices. 
 
 This quick-start guides you through the installation and configuration of the ownCloud Server on your local machine. It also provides information about user management, server access, and desktop and mobile syncronization.  
 
