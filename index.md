@@ -2,9 +2,7 @@
 
 ## Table of Contents
 
-1. TOC {: toc}
-
----
+1. TOC {:toc}
 
 
 ## Introduction
