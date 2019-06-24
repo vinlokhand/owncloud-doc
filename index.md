@@ -2,9 +2,7 @@
 
 ## Table of Contents
 
-{: .no_toc .text-delta }
-
-TOC {: toc}
+1. TOC {: toc}
 
 ---
 
